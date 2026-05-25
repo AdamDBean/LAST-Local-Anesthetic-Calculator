@@ -1,11 +1,7 @@
 const CACHE_NAME = 'last-calculator-v1.0.2';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/src/main.tsx',
-  '/src/App.tsx',
-  '/src/index.css',
-  '/favicon.ico'
+  './',
+  './index.html'
 ];
 
 // Install Event

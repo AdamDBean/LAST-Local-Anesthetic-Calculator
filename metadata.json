@@ -1,0 +1,6 @@
+{
+  "name": "LAST Calculator",
+  "description": "A high-performance clinical Local Anesthetic Systemic Toxicity dosing calculator to determine weight-based thresholds, track aggregate toxicity, and plan safe dosing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
